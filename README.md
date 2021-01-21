@@ -1,6 +1,8 @@
 # Steps to run the app
 npm install OR yarn install
+
 yarn start
+
 Enjoy
 
 # Getting Started with Create React App
